@@ -10,22 +10,23 @@
 
 ## 地面站及固件下载
 
-### PX4生态
+### QGroundControl
 - **QGroundControl地面站**: [下载](https://github.com/mavlink/qgroundcontrol/releases)
 - **PX4固件**: [下载](https://github.com/PX4/PX4-Autopilot/tags)
+- **APM固件**: [下载](https://firmware.ardupilot.org/Copter/)
 
-### ArduPilot生态
+### MissionPlanner
 - **MissionPlanner地面站**: [下载](https://firmware.ardupilot.org/Tools/MissionPlanner/)
 - **APM固件**: [下载](https://firmware.ardupilot.org/Copter/)
 
-### INAV生态
+### INAV Configurator
 - **INAV Configurator地面站**: [下载](https://github.com/iNavFlight/inav-configurator/releases)
 - **iNavflight固件**: [下载](https://github.com/iNavFlight/inav/tags)
 - **Zadig驱动**: [下载](https://zadig.akeo.ie/)
 
 ## 视频教程
 - [T1+APM+QGC飞控使用教程](https://www.bilibili.com/video/BV1je411z7o4/)
-- [T1+APM+Mission Planner飞控使用教程](https://www.bilibili.com/video/BV1aN4y1z7Rt/)
+- [T1+APM+MP飞控使用教程](https://www.bilibili.com/video/BV1aN4y1z7Rt/)
 - [T1+PX4+QGC飞控使用教程](https://www.bilibili.com/video/BV1cQ4y1g736/)
 - [T1+MSP+INAV飞控使用教程](https://www.bilibili.com/video/BV1ug4y1k7T7/)
 
