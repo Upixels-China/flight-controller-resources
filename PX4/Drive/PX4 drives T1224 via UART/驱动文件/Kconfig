@@ -1,0 +1,5 @@
+menuconfig DRIVERS_DISTANCE_SENSOR_TS1224
+	bool "ts1224"
+	default n
+	---help---
+		Enable support for ts1224

@@ -1,0 +1,7 @@
+module_name: TS1224 TOF Rangefinder
+serial_config:
+    - command: ts1224 start -d ${SERIAL_DEV}
+      port_config_param:
+        name: SENS_TS1224_CFG
+        group: Sensors
+
